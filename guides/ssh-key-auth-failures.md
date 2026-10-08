@@ -141,7 +141,7 @@ Host *.example.com
 ## Many hosts failing together
 
 When several hosts fail at once the cause is usually shared: DNS, a jump host, Tailscale, or the agent. A parallel checker that probes every host in an inventory and reports each as DNS, DOWN, AUTH, HOSTKEY or OK is at
-https://github.com/Dstanfield-Creator/projects/tree/master/tools/lab-ssh-check
+https://github.com/Dstanfield-Creator/lab-ops/tree/main/scripts/lab-ssh-check
 
 ---
 
