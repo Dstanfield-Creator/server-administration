@@ -140,7 +140,7 @@ A clean result lists only the algorithms configured above with no `(fail)` or `(
 
 ## Related
 
-- [UFW baseline](./ufw-baseline-linux.md)
+- [UFW baseline](https://github.com/Dstanfield-Creator/network/blob/main/firewall/ufw-baseline-linux.md)
 
 ---
 
