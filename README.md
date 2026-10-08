@@ -34,8 +34,8 @@
 ## Moved to other departments
 
 - Host firewall baseline (UFW) and the remote firewall change runbook: [network](https://github.com/Dstanfield-Creator/network/tree/main/firewall)
-- node_exporter setup and monitoring stacks: [monitoring](https://github.com/Dstanfield-Creator/monitoring)
-- Windows AD logging baseline for detection: [detections](https://github.com/Dstanfield-Creator/detections/blob/main/docs/windows-ad-logging-baseline-for-detection.md)
+- node_exporter setup and monitoring stacks: [monitoring](https://github.com/Dstanfield-Creator/cyber-resources/tree/master/monitoring)
+- Windows AD logging baseline for detection: [detections](https://github.com/Dstanfield-Creator/cyber-resources/blob/master/detections/docs/windows-ad-logging-baseline-for-detection.md)
 
 ---
 
